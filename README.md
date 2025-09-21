@@ -86,7 +86,4 @@ What did Prince Vasili Kuragin say to Anna Pavlovna at the reception?
 
 ---
 
-## Лицензия
-
-MIT License
 
