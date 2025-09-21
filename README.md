@@ -51,7 +51,7 @@ python script.py --text_file input.txt --output_file output.txt --num_questions 
 Файл `input.txt`:
 
 ```
-Нейронные сети — это вычислительные модели, вдохновленные человеческим мозгом. Они учатся выявлять закономерности в данных для предсказаний и принятия решений.
+Text from input.txt
 ```
 
 Команда для запуска:
@@ -63,9 +63,9 @@ python script.py --text_file input.txt --num_questions 3
 Вывод (в консоль и файл `output.txt`):
 
 ```
-Вопрос 1: Чем вдохновлены нейронные сети?
-Вопрос 2: Чему учатся нейронные сети?
-Вопрос 3: Для чего нужны нейронные сети?
+What did Anna Pavlovna Scherer say to Prince Vasili Kuragin?
+What did Prince Vasili Kuragin say to Anna Pavlovna?
+What did Prince Vasili Kuragin say to Anna Pavlovna at the reception?
 ```
 
 ---
